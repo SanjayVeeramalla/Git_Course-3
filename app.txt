@@ -1,2 +1,0 @@
-"Version 1 of my app"
-"Version 2 of my app"
